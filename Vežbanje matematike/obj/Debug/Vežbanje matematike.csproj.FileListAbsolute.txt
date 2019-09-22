@@ -1,0 +1,18 @@
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Vežbanje matematike\bin\Debug\Vežbanje matematike.exe.config
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Vežbanje matematike\bin\Debug\Vežbanje matematike.exe
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Vežbanje matematike\bin\Debug\Vežbanje matematike.pdb
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Vežbanje matematike\obj\Debug\Vežbanje matematike.csprojResolveAssemblyReference.cache
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Vežbanje matematike\obj\Debug\Vežbanje_matematike.Form1.resources
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Vežbanje matematike\obj\Debug\Vežbanje_matematike.Properties.Resources.resources
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Vežbanje matematike\obj\Debug\Vežbanje matematike.csproj.GenerateResource.Cache
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Vežbanje matematike\obj\Debug\Vežbanje matematike.exe
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Vežbanje matematike\obj\Debug\Vežbanje matematike.pdb
+C:\Users\Aleksa\Desktop\Vežbanje matematike\Vežbanje matematike\bin\Debug\Vežbanje matematike.exe.config
+C:\Users\Aleksa\Desktop\Vežbanje matematike\Vežbanje matematike\obj\Debug\Vežbanje matematike.exe
+C:\Users\Aleksa\Desktop\Vežbanje matematike\Vežbanje matematike\obj\Debug\Vežbanje matematike.pdb
+C:\Users\Aleksa\Desktop\Vežbanje matematike\Vežbanje matematike\bin\Debug\Vežbanje matematike.exe
+C:\Users\Aleksa\Desktop\Vežbanje matematike\Vežbanje matematike\bin\Debug\Vežbanje matematike.pdb
+C:\Users\Aleksa\Desktop\Vežbanje matematike\Vežbanje matematike\obj\Debug\Vežbanje matematike.csprojResolveAssemblyReference.cache
+C:\Users\Aleksa\Desktop\Vežbanje matematike\Vežbanje matematike\obj\Debug\Vežbanje_matematike.Form1.resources
+C:\Users\Aleksa\Desktop\Vežbanje matematike\Vežbanje matematike\obj\Debug\Vežbanje_matematike.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\Vežbanje matematike\Vežbanje matematike\obj\Debug\Vežbanje matematike.csproj.GenerateResource.Cache
